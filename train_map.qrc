@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>ad0931b38a4d77d3d3863cae5d81b27.png</file>
+        <file>node_data.csv</file>
+    </qresource>
+</RCC>
